@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T21:38:08.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.7" etag="RYjlocIEoznEWAn31AmB" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T00:16:03.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5NnzlgQLE3D8sx6swOiA" version="21.3.7" type="github">
   <diagram name="Page-1" id="x8TCJKGhixnj-C1c_ZOC">
-    <mxGraphModel>
+    <mxGraphModel dx="918" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HPgVXKFKw9LEwNNnbioZ-1" value="LinkMe Backend" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="239" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgVXKFKw9LEwNNnbioZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HPgVXKFKw9LEwNNnbioZ-2" target="HPgVXKFKw9LEwNNnbioZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="165" />
+              <mxPoint x="164" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPgVXKFKw9LEwNNnbioZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPgVXKFKw9LEwNNnbioZ-2" target="HPgVXKFKw9LEwNNnbioZ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPgVXKFKw9LEwNNnbioZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPgVXKFKw9LEwNNnbioZ-2" target="HPgVXKFKw9LEwNNnbioZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgVXKFKw9LEwNNnbioZ-2" value="API" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgVXKFKw9LEwNNnbioZ-3" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;br&gt;&lt;b&gt;Authentication&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;1. Basic&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;2. Google&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;3. Apple&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgVXKFKw9LEwNNnbioZ-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;Custom Icons/Items&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;1. Need to plan and design&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="250" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgVXKFKw9LEwNNnbioZ-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;Card Details&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;1. C. Number&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;2. Other Details&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="140" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
